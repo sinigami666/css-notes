@@ -1,0 +1,28 @@
+Day #1
+Topic:- Introduction Of CSS
+CSS ka full form "Cascading Style Sheet" hota hai. Ye hamare website ke look ko aacha banata hai. Ye HTML
+ke liye additional features bhi provide karata hai. Ye HTML ke normal UI ko interective banata hai. CSS 
+XML,SVG aur XUL main bhi use kar sakte hai.
+1994,Haykon Wium Lie, 1996 main CSS ka first version aaya.
+
+CSS Syntax:- 
+            selector{property:value;property1:value1;}
+	
+	Selector :- Selector HTML web page ke usss element ko indicate karta hai jisko hume style dena hota hai.
+	Property :- Ye attribute ka ek type hota hai.
+	Value :- Value wo hoti hai jo propertyko assign kiya jata hai.
+	
+CSS selector:-
+            Selector HTML web page ke usss element ko indicate karta hai jisko hume style dena hota hai.
+
+Type of selectors:-
+1 - CSS element selector
+2 - CSS Id selector
+3 - CSS Class selector
+4 - CSS universal selector
+5 - CSS Global Selector
+
+1 - CSS Element selector:-
+
+2 - CSS Id selector:- Id pure web page main unique hoti hai, mtlb ek naam ke 2 id nahi honge. Id ko hash (#) laga
+                      ke likhte hai.
